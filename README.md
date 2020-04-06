@@ -91,7 +91,8 @@ Choose a baseline search algorithm for comparison (for example, alpha-beta searc
 Why do you think the technique you chose was more (or less) effective than the baseline?
 
 ## Report 
-// TODO: import report pdf here
+[Project Report](report.pdf)
+
 
 ## Choose an Experiment
 
