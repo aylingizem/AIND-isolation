@@ -71,6 +71,28 @@ def get_action(...):
     self.context = object_you_want_to_save  # self.context will contain this object on the next turn
 ```
 
+## Requirements 
+
+Submission includes a short answer to the applicable questions below. (A short answer should be at least 1-2 sentences at most a small paragraph.)
+
+NOTE: students only need to answer the questions relevant to the techniques they implemented. They may choose one set of questions if their agent incorporates multiple techniques.
+
+Advanced Heuristic
+
+What features of the game does your heuristic incorporate, and why do you think those features matter in evaluating states during search?
+Analyze the search depth your agent achieves using your custom heuristic. Does search speed matter more or less than accuracy to the performance of your heuristic?
+Opening book
+
+Describe your process for collecting statistics to build your opening book. How did you choose states to sample? And how did you perform rollouts to determine a winner?
+What opening moves does your book suggest are most effective on an empty board for player 1 and what is player 2's best reply?
+Advanced Search Techniques
+
+Choose a baseline search algorithm for comparison (for example, alpha-beta search with iterative deepening, etc.). How much performance difference does your agent show compared to the baseline?
+Why do you think the technique you chose was more (or less) effective than the baseline?
+
+## Report 
+// TODO: import report pdf here
+
 ## Choose an Experiment
 
 Select at least one of the following to implement and evaluate in your report. (There is no upper limit on the techniques you incorporate into your agent.)
